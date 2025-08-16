@@ -5,7 +5,7 @@ local UserInputService = game:GetService("UserInputService")
 local player = Players.LocalPlayer
 local camera = workspace.CurrentCamera
 
--- Lock camera to first person
+-- Lock camera to first person (this script is unstable kinda)
 player.CameraMode = Enum.CameraMode.LockFirstPerson
 
 -- Camera sway/bob parameters
