@@ -1,4 +1,4 @@
--- Place this LocalScript inside StarterPlayer > StarterPlayerScripts
+--(edit2) Place this LocalScript inside StarterPlayer > StarterPlayerScripts
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
