@@ -52,7 +52,7 @@ RunService.RenderStepped:Connect(function(dt)
         0
     )
 
-    -- Walking bobbing and tilt
+    -- Walking bobbing and tiltt
     local bobOffset = Vector3.new()
     local tiltCFrame = CFrame.new()
     if isMoving then
