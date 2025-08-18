@@ -8,7 +8,7 @@ local camera = workspace.CurrentCamera
 -- Lock camera to first person (this script is unstable kinda) (edit 3 19 august)
 player.CameraMode = Enum.CameraMode.LockFirstPerson
 
--- Camera sway/bob parameters
+-- Camera sway/bob parameterss
 local idleSwayAmplitude = 0.15
 local idleSwayFrequency = 1.2
 local walkBobAmplitude = 0.25
