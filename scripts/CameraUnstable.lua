@@ -12,6 +12,7 @@ local camera = workspace.CurrentCamera
 -- edit 4 19 august
 -- edit 1 20 august
 -- edit  2 20 august
+-- edit  3 august
 player.CameraMode = Enum.CameraMode.LockFirstPerson
 
 -- Camera sway/bob parameterss
