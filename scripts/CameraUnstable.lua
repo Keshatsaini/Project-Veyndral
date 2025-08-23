@@ -10,7 +10,7 @@ local camera = workspace.CurrentCamera
 -- edit 1 19 august
 -- edit 2 19 august
 -- edit 3 19 august
--- edit 4 19 august
+
 ]
 player.CameraMode = Enum.CameraMode.LockFirstPerson
 
