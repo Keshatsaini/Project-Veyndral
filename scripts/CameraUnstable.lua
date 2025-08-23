@@ -9,6 +9,7 @@ local camera = workspace.CurrentCamera
 -- Lock camera to first person (this script is unstable kinda) (edit 3 18 august)
 -- edit 1 19 august
 -- edit 2 19 august
+
 -- edit 3 19 august
 player.CameraMode = Enum.CameraMode.LockFirstPerson
 
