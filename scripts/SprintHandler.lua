@@ -3,6 +3,7 @@ local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local StarterGui = game:GetService("StarterGui")
 
+
 local player = Players.LocalPlayer
 local SPRINT_KEY = Enum.KeyCode.LeftShift
 local WALK_SPEED = 20
