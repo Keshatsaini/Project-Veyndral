@@ -13,6 +13,7 @@ local rootPart = nil
 local swayAmount = 0.01
 local swaySpeed = 0.05
 
+
 -- Bobbing settings
 local bobAmount = 0.2
 local bobSpeed = 8
