@@ -14,6 +14,7 @@ local regenDelay = 0.25
 -- Jump settingshm
 local JUMP_POWER = 75 -- default ~50, so you can tune this higher for big jumps
 
+
 local shiftHeld = false
 local isSprinting = false
 local stamina = MAX_STAMINA
