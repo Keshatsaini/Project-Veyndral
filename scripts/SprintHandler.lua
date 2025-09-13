@@ -15,6 +15,7 @@ local regenDelay = 0.25
 
 local shiftHeld = false
 local isSprinting = false
+
 local stamina = MAX_STAMINA
 local lastSprintTime = 0
 
