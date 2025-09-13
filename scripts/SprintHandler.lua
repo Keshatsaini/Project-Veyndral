@@ -20,6 +20,7 @@ local isSprinting = false
 local stamina = MAX_STAMINA
 local lastSprintTime = 0
 
+
 local staminaGui
 local staminaBar
 local healthBar
