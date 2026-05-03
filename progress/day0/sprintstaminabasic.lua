@@ -6,6 +6,7 @@ local runService = game:GetService("RunService")
 local walkSpeed = 16
 local sprintSpeed = 32
 
+
 -- Stamina settings
 local maxStamina = 7 -- seconds
 local stamina = maxStamina
